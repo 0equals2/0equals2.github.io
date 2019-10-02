@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: English
-slug: english
+title: Python
+slug: py
 category: language
 menu: false
 order: 1

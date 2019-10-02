@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Python
-slug: python
+title: French
+slug: fr
 category: language
 menu: false
 order: 1

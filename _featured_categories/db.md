@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Database
+title: Data base
 slug: db
 menu: true
 submenu: true

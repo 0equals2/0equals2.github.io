@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Deep Learning
-slug: dl
+title: Machine Learning
+slug: ml
 category: ds
 menu: false
 order: 2

@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Spanish
-slug: spanish
+title: English
+slug: en
 category: language
 menu: false
 order: 1

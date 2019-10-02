@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Adsp
 slug: adsp
-category: datascience
+category: ds
 menu: false
 order: 2
 ---
