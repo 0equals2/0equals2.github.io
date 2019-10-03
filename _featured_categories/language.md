@@ -4,6 +4,6 @@ title: Language
 slug: language
 menu: true
 submenu: true
-order: 6
+order: 2
 description: 
 ---
