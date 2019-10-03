@@ -39,6 +39,8 @@ font:                "'Lato', 'Sans-serif'"
 # See: https://qwtel.com/hydejack/docs/configuration/
 google_fonts:        Lato
 
+disqus_url : 0equals2.disqus.com
+disqus_id : 0equals2
 # If you do not use a Google Fonts, uncomment the line below
 # no_google_fonts:     true
 

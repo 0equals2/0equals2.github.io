@@ -11,7 +11,7 @@ order: 10
 #jb-content{width: 580px;padding: 20px;margin-bottom: 10px;float: right;border: 0px;}
 @media ( min-width: 481px )
 {
-  
+
   #jb-content { width: 580px; float: right; }
 }
 </style>
@@ -39,12 +39,6 @@ order: 10
     <p>2015.09 - 2016.07 프랑스 파리 소르본 대학교 부설 어학원</p>
     <p>2013.03 - 2019.02 중앙대학교 프랑스어문학과 / 문화콘텐츠 융합전공</p>
 </div>
-
-
-
-<br><br><br><br>
-
-<br><br><br><br><br>
 
 <br>
 
