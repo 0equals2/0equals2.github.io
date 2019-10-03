@@ -11,7 +11,7 @@ order: 10
 #jb-content{width: 580px;padding: 20px;margin-bottom: 10px;float: right;border: 0px;}
 @media ( min-width: 481px )
 {
-  #jb-sidebar { width: 260px; float: left; }
+  
   #jb-content { width: 580px; float: right; }
 }
 </style>
@@ -34,7 +34,7 @@ order: 10
 <br>
 
 <h3>3. Experience</h3>
-<div id="jb-sidebar">
+<div >
 	<p>2018.11 - 2019.06 멀티캠퍼스 딥러닝 기반의 빅데이터 분석 과정</p>
     <p>2015.09 - 2016.07 프랑스 파리 소르본 대학교 부설 어학원</p>
     <p>2013.03 - 2019.02 중앙대학교 프랑스어문학과 / 문화콘텐츠 융합전공</p>
@@ -42,16 +42,17 @@ order: 10
 
 
 
+<br><br><br><br>
+
 <br><br><br><br><br>
 
+<br>
+
 <h3>4. Project</h3>
-<div id="jb-sidebar">
-	<p>2019.05 - 2019.06</p>
+<div>
 
     <p>2019.05 - 2019.06 NewBit 뉴스 비교 트렌드 : 신문 기사 자동 분류 및 비교 사이트</p>
     <p>2019.04 - 2019.05 K-ube 소셜데이터(twitter, youtube)를 활용한 글로벌 트렌드 분석</p>
     <p>2017.11 - 2017.12 휴보강 알림 서비스 및 학점 계산기를 포함한 학생 편의 프로그램</p>
 </div>
-
-
 
