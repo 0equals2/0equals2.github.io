@@ -206,7 +206,7 @@ plt.plot(x, y, marker="x")
 
 
 
-![png](output_19_1.png)
+![png](/assets/img/output_19_1.png)
 
 
 ### pandas
@@ -631,7 +631,7 @@ pd.plotting.scatter_matrix(iris_df, c=y_train, figsize=(15,15), marker ='o',
 
 
 
-![png](output_58_1.png)
+![png](/assets/img/output_58_1.png)
 
 
 ### 첫 번째 머신러닝 모델 : k-최근접 이웃 알고리즘
